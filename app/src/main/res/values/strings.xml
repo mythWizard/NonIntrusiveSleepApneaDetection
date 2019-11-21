@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Adult Non-intrusive Apnea Locator</string>
+    <string name="error_bluetooth_not_supported">Bluetooth not supported.</string>
+    <string name="empty">Empty</string>
+    <string name="unknown_device">Unknown device</string>
+    <string name="action_settings">Settings</string>
+</resources>
